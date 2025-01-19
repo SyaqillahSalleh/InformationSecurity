@@ -1,0 +1,8 @@
+{
+    "port" : 5200,
+    "db" : "mongodb+srv://Ivanyjs:tsfGmQtdiX5fEIEm@cluster0.lzjinlx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "secret" : "Woahwhoaddedthishere",
+    "motd" : "Welcome!",
+    "saltrounds": 10,
+    "masterpass": "HardSecurity"
+}
